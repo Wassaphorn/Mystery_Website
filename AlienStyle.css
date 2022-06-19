@@ -1,0 +1,36 @@
+p {
+    font-style: oblique;
+
+    color: lightpink;
+    text-shadow: 13px 6px 2px rgb(10, 14, 22);
+
+
+}
+
+i {
+    color: fuchsia;
+}
+
+a:hover {
+    color: crimson;
+    font-size: 30px;
+}
+
+.lightshadow {
+    border: 3px solid #292e10;
+    border-radius: 40px;
+    box-shadow: -12px 13px 2px #d4ff00
+}
+
+.lightshadow2 {
+    border: 3px solid #292e10;
+    border-radius: 40px;
+    box-shadow: 12px 13px 2px #d4ff00
+}
+
+
+
+
+.cat {
+    width: 90px
+}
